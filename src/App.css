@@ -1,0 +1,8 @@
+.background {
+  background-color: rgba(255, 0, 0, 0.9);
+  min-height: 100vh;
+}
+
+.main{
+  box-shadow: 10px 10px 10px rgb(79, 48, 48);
+}
